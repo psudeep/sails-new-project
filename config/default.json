@@ -1,0 +1,28 @@
+{
+  "__comment": "Please add configurations in alphabetical order and in context.",
+  "aws_config": {
+    "accessKeyId": "XXXXXXXXXXXXXX",
+    "secretAccessKey": "XXXXXXXXX",
+    "region": "ap-south-1"
+  },
+  "awsMysql": {
+    "adapter": "sails-mysql",
+    "user": "XXXXXXXXX",
+    "password": "XXXXXXXXX",
+    "host": "XXXXXXXXXXXXXXXXXXXXXXXXX",
+    "port": 3306,
+    "database": "XXXXXXXXXX"
+  },
+  "locale": {
+    "en": {
+      "file": "en_locale.json"
+    },
+    "hi": {
+      "file": "hi_locale.json"
+    }
+  },
+  "s3_config": {
+    "bucket_name": "XXXXXXXXXXXXXX",
+    "base_key": "XXXXXXXXXXX"
+  }
+}

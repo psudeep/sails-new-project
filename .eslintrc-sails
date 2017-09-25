@@ -1,0 +1,10 @@
+{
+  "globals": {
+    "sails": true,
+    "Users": true,
+    "AuthController": true,
+    "AuthService": true,
+    "LoginHistory": true,
+    "JWT": true,
+  }
+}

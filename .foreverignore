@@ -1,0 +1,10 @@
+**/*.json
+**/.git/**
+**/.idea/**
+**/.tmp/**
+**/views/**
+**/assets/**
+**/node_modules/**
+package.json
+newrelic_agent.log
+npm-debug.log
